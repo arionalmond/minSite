@@ -12,5 +12,5 @@ Then you can set up github pages which will host the site using the README.md fi
 *italicized text*  
 
 `this is some code`  
-to create a link: `[my github profile]([https://www.example.com](https://github.com/arionalmond))`
-the link above navigates to: `https://arionalmond.github.io/minSite/[https://www.example.com](https://github.com/arionalmond)`
+to create a link: `[title](https://www.example.com)`
+[title](https://github.com/arionalmond)
