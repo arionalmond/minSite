@@ -12,5 +12,7 @@ Then you can set up github pages which will host the site using the README.md fi
 *italicized text*  
 
 `this is some code`  
-to create a link: `[title](https://www.example.com)`
-[title](https://github.com/arionalmond)
+to create a link: `[title](https://www.example.com)`  
+[title](https://github.com/arionalmond)  
+to add a picture: `![alt text](image.jpg)`  
+![pigeon](pigeon.jpeg)  
