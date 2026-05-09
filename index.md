@@ -11,7 +11,7 @@ to create a link: `[title](https://www.example.com)`
 [my github profile](https://github.com/arionalmond)  
 [html page2](page2.html)  
 [markdown page2](pg3.md)  
-[markdown page3](pages/page4.md)  
+[markdown page4](pages/page4.md)  
   
 to add a sized picture: `<img src="image.png" width="200" height="100">`  
 if your Markdown processor supports HTML (github does apparently)  
