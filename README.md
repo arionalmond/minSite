@@ -13,7 +13,7 @@ Then you can set up github pages which will host the site using the README.md fi
 
 `this is some code`  
 to create a link: `[title](https://www.example.com)`  
-[title](https://github.com/arionalmond)  
+[my github profile](https://github.com/arionalmond)  
 to add a sized picture: `<img src="image.png" width="200" height="100">`
 <img src="pigeon.jpeg" width="200" height="100">  
 to add a picture: `![alt text](image.jpg)`  
