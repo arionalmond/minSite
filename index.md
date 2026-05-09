@@ -19,4 +19,9 @@ if your Markdown processor supports HTML (github does apparently)
 to add a picture: `![alt text](image.jpg)`  
 ![pigeon](pigeon.jpeg)  
 
+<video controls width="80%">
+  <source src="output2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 most of these above eamples came from [markdownguide](https://www.markdownguide.org)  
